@@ -1,0 +1,51 @@
+{
+	"basics":{
+	"name":"nari",
+	"role":"student",
+	"mobile":"9121818923",
+	"email":"narayanamma.kittala9@gmail.com"	
+},
+"career":{
+	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+	"Degree":"B-Tech(Computer Science &Engineering)",
+    "Institute":"Vignana's Nirula",
+    "Data":["2016-20","80%"]
+},
+{
+	"Degree":"Intermediate(MPC)",
+    "Institute":"Narayana Junior College",
+    "Data":["2014-16","94.6%"]
+},
+{
+	"Degree":"SSC",
+    "Institute":"Z.P.H High School",
+    "Data":["2013-14","92%"]
+}
+],
+"skills":[
+{
+   "title":"Programming languages",
+   "content":["Python","C","Java","R","C++"]
+
+},
+{
+
+	  "title":"Databases",
+   "content":["SQL","ORACLE"]
+
+},
+{
+
+"title":"Web Technologies",
+   "content":["css","Html"]
+},
+{
+	"title":"Operating system",
+   "content":["Windows","linux","unix"]
+
+}
+]
+}
